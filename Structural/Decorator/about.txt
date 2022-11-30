@@ -1,0 +1,1 @@
+O Decorator é um design pattern que permite que você acople novas características aos objetos sem que comprometa sua arquitetura padrão. É como vestir uma roupa no frio: ao terminar a sensação de frio, basta retirar a blusa - esta não altera seu comportamento como pessoa - e pronto.

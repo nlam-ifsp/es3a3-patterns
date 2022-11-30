@@ -1,0 +1,1 @@
+O FactoryMode como o próprio nome diz, consiste em criar uma fábrica de objetos e existe para reutilizar objetos existentes ao invés de recriá-los sempre que houver necessidade (geralmente utilizado para facilitar a construção de objetos de grande porte). Um Creator é responsável em fabricar o objeto através da abstração da classe final (interface).

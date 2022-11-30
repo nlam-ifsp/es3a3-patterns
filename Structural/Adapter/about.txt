@@ -1,0 +1,1 @@
+O pattern Adapter existe basicamente como uma forma de "conectar" objetos incompatíveis (com entradas/saídas diferentes), permitindo que haja fluxo de dados entre si. É literalmente como um adaptador de tomada, no qual permite utilizar quaisquer eletrodoméstico em qualquer padrão de tomada.

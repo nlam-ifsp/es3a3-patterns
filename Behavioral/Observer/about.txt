@@ -1,0 +1,1 @@
+O Observer é um design pattern que permite que você construa classes que possam "comunicar-se" através de si por meio de notificações; ou seja, basicamente criar um mecanismo de inscrição/publicação de tópicos. Desse modo, quando alguma ação ocorrer, as classes podem "alertar" as outras conforme os eventos forem ocorrendo.

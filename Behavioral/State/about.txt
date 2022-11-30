@@ -1,0 +1,1 @@
+O Design Pattern "State" é como que se o objeto alterasse seu comportamento de acordo com seu estado; em outras palavras, é como se o objeto fosse instância de outra classe. É útil quando o objeto tem de ter vários estados, porém, sem a necessidade de recorrer a "if-else" encadeados.

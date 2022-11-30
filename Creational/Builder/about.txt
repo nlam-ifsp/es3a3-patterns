@@ -1,0 +1,2 @@
+O pattern Builder tem como propósito criar um padrão de projeto onde se possa construir um objeto complexo passo a passo. Utilizando a analogia de um brinquedo, pode-se ter um boneco com várias partes e características diferentes, o que, trazendo para a OOP, poderia demandar uma classe com alto acoplamento e construtores longos e complexos.
+Utilizando o construtor fora da classe principal, podemos através de uma interface criar objetos de alta complexidade a partir de "características" menores.
